@@ -1,0 +1,15 @@
+Package: masteRcensus
+Type: Package
+Date: 2022-20-04
+Title: Tabelle dati dei Censimenti Permanenti Italiani 2018-2020
+Version: 0.1.0
+Authors@R: person("Luca", "Valnegri", email = "l.valnegri@datamaps.co.uk", role = c("aut", "cre"))
+Description: Tabelle dati dei Censimenti Permanenti Italiani 2018-2020. Uso riservato per applicazioni ed analisi geodemografiche di "MaSTeR Information", Milano, Italy.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.0)
+Imports:
+    data.table
+Suggests:
+LazyData: true
+RoxygenNote: 7.1.2

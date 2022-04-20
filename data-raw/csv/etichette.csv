@@ -1,0 +1,346 @@
+tabella,attributo,valore,etichetta,ordine
+famiglie,dominio,F,Famiglie,1
+famiglie,dominio,PF,Popolazione Residente in Famiglia,2
+residenti,sesso,F,Femmine,1
+residenti,sesso,M,Maschi,2
+residenti,sesso,T,Totale,3
+residenti,cittadinanza,I,Italiani,1
+residenti,cittadinanza,S,Stranieri,2
+residenti,cittadinanza,T,Totale,3
+eta05,sesso,F,Femmine,1
+eta05,sesso,M,Maschi,2
+eta05,sesso,T,Totale,3
+eta05,eta,Y00-04,Fino a 4 anni,1
+eta05,eta,Y05-09,Da 5 anni a 9 anni,2
+eta05,eta,Y10-14,Da 10 anni a 14 anni,3
+eta05,eta,Y15-19,Da 15 anni a 19 anni,4
+eta05,eta,Y20-24,Da 20 anni a 24 anni,5
+eta05,eta,Y25-29,Da 25 anni a 29 anni,6
+eta05,eta,Y30-34,Da 30 anni a 34 anni,7
+eta05,eta,Y35-39,Da 35 anni a 39 anni,8
+eta05,eta,Y40-44,Da 40 anni a 44 anni,9
+eta05,eta,Y45-49,Da 45 anni a 49 anni,10
+eta05,eta,Y50-54,Da 50 anni a 54 anni,11
+eta05,eta,Y55-59,Da 55 anni a 59 anni,12
+eta05,eta,Y60-64,Da 60 anni a 64 anni,13
+eta05,eta,Y65-69,Da 65 anni a 69 anni,14
+eta05,eta,Y70-74,Da 70 anni a 74 anni,15
+eta05,eta,Y75-79,Da 75 anni a 79 anni,16
+eta05,eta,Y80-84,Da 80 anni a 84 anni,17
+eta05,eta,Y85-89,Da 85 anni a 89 anni,18
+eta05,eta,Y90-94,Da 90 anni a 94 anni,19
+eta05,eta,Y95-99,Da 95 anni a 99 anni,20
+eta05,eta,YGE100,100 anni e più,21
+eta10,sesso,F,Femmine,1
+eta10,sesso,M,Maschi,2
+eta10,sesso,T,Totale,3
+eta10,cittadinanza,I,Italiani,1
+eta10,cittadinanza,S,Stranieri,2
+eta10,cittadinanza,T,Totale,3
+eta10,eta,Y00-09,Fino a 9 anni,1
+eta10,eta,Y10-19,Da 10 anni a 19 anni,2
+eta10,eta,Y20-29,Da 20 anni a 29 anni,3
+eta10,eta,Y30-39,Da 30 anni a 39 anni,4
+eta10,eta,Y40-49,Da 40 anni a 49 anni,5
+eta10,eta,Y50-59,Da 50 anni a 59 anni,6
+eta10,eta,Y60-69,Da 60 anni a 69 anni,7
+eta10,eta,Y70-79,Da 70 anni a 79 anni,8
+eta10,eta,Y80-89,Da 80 anni a 89 anni,9
+eta10,eta,Y90-99,Da 90 anni a 99 anni,10
+eta10,eta,YGE100,100 anni e più,11
+minori,sesso,F,Femmine,1
+minori,sesso,M,Maschi,2
+minori,sesso,T,Totale,3
+minori,cittadinanza,I,Italiani,1
+minori,cittadinanza,S,Stranieri,2
+minori,cittadinanza,T,Totale,3
+stranieri_continenti,sesso,F,Femmine,1
+stranieri_continenti,sesso,M,Maschi,2
+stranieri_continenti,sesso,T,Totale,3
+stranieri_continenti,provenienza,EUR,Europa,1
+stranieri_continenti,provenienza,AME,Americhe,2
+stranieri_continenti,provenienza,AFR,Africa,3
+stranieri_continenti,provenienza,ASI,Asia,4
+stranieri_continenti,provenienza,OCE,Oceania,5
+stranieri_aree,sesso,F,Femmine,1
+stranieri_aree,sesso,M,Maschi,2
+stranieri_aree,sesso,T,Totale,3
+stranieri_aree,provenienza,EUR_EU,Europa Unione Europea,1
+stranieri_aree,provenienza,EUR_C_E,Europa Centro-Est,2
+stranieri_aree,provenienza,EUR_OTH,Europa Altri,3
+stranieri_aree,provenienza,AME_N,Americhe Nord,4
+stranieri_aree,provenienza,AME_C_S,Americhe Centro-Sud,5
+stranieri_aree,provenienza,AFR_N,Africa Nord,6
+stranieri_aree,provenienza,AFR_E,Africa Est,7
+stranieri_aree,provenienza,AFR_W,Africa Ovest,8
+stranieri_aree,provenienza,AFR_C_S,Africa Centro-Sud,9
+stranieri_aree,provenienza,ASI_E,Asia Est,10
+stranieri_aree,provenienza,ASI_W,Asia Ovest,11
+stranieri_aree,provenienza,ASI_C_S,Asia Centro-Sud,12
+stranieri_aree,provenienza,OCE,Oceania,13
+stranieri_paesi,sesso,F,Femmine,1
+stranieri_paesi,sesso,M,Maschi,2
+stranieri_paesi,sesso,T,Totale,3
+stranieri_paesi,provenienza,AD,Andorra,1
+stranieri_paesi,provenienza,AE,Emirati Arabi Uniti,2
+stranieri_paesi,provenienza,AF,Afghanistan,3
+stranieri_paesi,provenienza,AG,Antigua e Barbuda,4
+stranieri_paesi,provenienza,AL,Albania,5
+stranieri_paesi,provenienza,AM,Armenia,6
+stranieri_paesi,provenienza,AO,Angola,7
+stranieri_paesi,provenienza,AR,Argentina,8
+stranieri_paesi,provenienza,AT,Austria,9
+stranieri_paesi,provenienza,AU,Australia,10
+stranieri_paesi,provenienza,AZ,Azerbaigian,11
+stranieri_paesi,provenienza,BA,Bosnia-Erzegovina,12
+stranieri_paesi,provenienza,BB,Barbados,13
+stranieri_paesi,provenienza,BD,Bangladesh,14
+stranieri_paesi,provenienza,BE,Belgio,15
+stranieri_paesi,provenienza,BF,Burkina Faso (ex Alto Volta),16
+stranieri_paesi,provenienza,BG,Bulgaria,17
+stranieri_paesi,provenienza,BH,Bahrain,18
+stranieri_paesi,provenienza,BI,Burundi,19
+stranieri_paesi,provenienza,BJ,Benin (ex Dahomey),20
+stranieri_paesi,provenienza,BN,Brunei Darussalam,21
+stranieri_paesi,provenienza,BO,Bolivia,22
+stranieri_paesi,provenienza,BR,Brasile,23
+stranieri_paesi,provenienza,BS,Bahamas,24
+stranieri_paesi,provenienza,BT,Bhutan,25
+stranieri_paesi,provenienza,BW,Botswana,26
+stranieri_paesi,provenienza,BY,Bielorussia,27
+stranieri_paesi,provenienza,BZ,Belize,28
+stranieri_paesi,provenienza,CA,Canada,29
+stranieri_paesi,provenienza,CD,Repubblica democratica del Congo (ex Zaire),30
+stranieri_paesi,provenienza,CF,Repubblica Centrafricana,31
+stranieri_paesi,provenienza,CG,Repubblica del Congo,32
+stranieri_paesi,provenienza,CH,Svizzera,33
+stranieri_paesi,provenienza,CI,Costa d'Avorio,34
+stranieri_paesi,provenienza,CL,Cile,35
+stranieri_paesi,provenienza,CM,Camerun,36
+stranieri_paesi,provenienza,CN,Cina,37
+stranieri_paesi,provenienza,CO,Colombia,38
+stranieri_paesi,provenienza,CR,Costa Rica,39
+stranieri_paesi,provenienza,CU,Cuba,40
+stranieri_paesi,provenienza,CV,Capo Verde,41
+stranieri_paesi,provenienza,CY,Cipro,42
+stranieri_paesi,provenienza,CZ,Repubblica Ceca,43
+stranieri_paesi,provenienza,DE,Germania,44
+stranieri_paesi,provenienza,DJ,Gibuti,45
+stranieri_paesi,provenienza,DK,Danimarca,46
+stranieri_paesi,provenienza,DM,Dominica,47
+stranieri_paesi,provenienza,DO,Repubblica Dominicana,48
+stranieri_paesi,provenienza,DZ,Algeria,49
+stranieri_paesi,provenienza,EC,Ecuador,50
+stranieri_paesi,provenienza,EE,Estonia,51
+stranieri_paesi,provenienza,EG,Egitto,52
+stranieri_paesi,provenienza,ER,Eritrea,53
+stranieri_paesi,provenienza,ES,Spagna,54
+stranieri_paesi,provenienza,ET,Etiopia,55
+stranieri_paesi,provenienza,FI,Finlandia,56
+stranieri_paesi,provenienza,FJ,Figi,57
+stranieri_paesi,provenienza,FM,Stati Federati di Micronesia,58
+stranieri_paesi,provenienza,FR,Francia,59
+stranieri_paesi,provenienza,GA,Gabon,60
+stranieri_paesi,provenienza,GD,Grenada,61
+stranieri_paesi,provenienza,GE,Georgia,62
+stranieri_paesi,provenienza,GH,Ghana,63
+stranieri_paesi,provenienza,GM,Gambia,64
+stranieri_paesi,provenienza,GN,Guinea,65
+stranieri_paesi,provenienza,GQ,Guinea equatoriale,66
+stranieri_paesi,provenienza,GR,Grecia,67
+stranieri_paesi,provenienza,GT,Guatemala,68
+stranieri_paesi,provenienza,GW,Guinea-Bissau,69
+stranieri_paesi,provenienza,GY,Guyana,70
+stranieri_paesi,provenienza,HN,Honduras,71
+stranieri_paesi,provenienza,HR,Croazia,72
+stranieri_paesi,provenienza,HT,Haiti,73
+stranieri_paesi,provenienza,HU,Ungheria,74
+stranieri_paesi,provenienza,ID,Indonesia,75
+stranieri_paesi,provenienza,IE,Irlanda,76
+stranieri_paesi,provenienza,IL,Israele,77
+stranieri_paesi,provenienza,IN,India,78
+stranieri_paesi,provenienza,IQ,Iraq,79
+stranieri_paesi,provenienza,IR,Iran (Repubblica Islamica di),80
+stranieri_paesi,provenienza,IS,Islanda,81
+stranieri_paesi,provenienza,JM,Giamaica,82
+stranieri_paesi,provenienza,JO,Giordania,83
+stranieri_paesi,provenienza,JP,Giappone,84
+stranieri_paesi,provenienza,KE,Kenya,85
+stranieri_paesi,provenienza,KG,Kirghizistan,86
+stranieri_paesi,provenienza,KH,Cambogia,87
+stranieri_paesi,provenienza,KI,Kiribati,88
+stranieri_paesi,provenienza,KM,Comore,89
+stranieri_paesi,provenienza,KN,Saint Kitts e Nevis,90
+stranieri_paesi,provenienza,KP,Corea del Nord (Repubblica Popolare Democratica),91
+stranieri_paesi,provenienza,KR,Corea del sud,92
+stranieri_paesi,provenienza,KW,Kuwait,93
+stranieri_paesi,provenienza,KZ,Kazakhstan,94
+stranieri_paesi,provenienza,LA,Laos,95
+stranieri_paesi,provenienza,LB,Libano,96
+stranieri_paesi,provenienza,LC,Santa Lucia,97
+stranieri_paesi,provenienza,LI,Liechtenstein,98
+stranieri_paesi,provenienza,LK,Sri Lanka (ex Ceylon),99
+stranieri_paesi,provenienza,LR,Liberia,100
+stranieri_paesi,provenienza,LS,Lesotho,101
+stranieri_paesi,provenienza,LT,Lituania,102
+stranieri_paesi,provenienza,LU,Lussemburgo,103
+stranieri_paesi,provenienza,LV,Lettonia,104
+stranieri_paesi,provenienza,LY,Libia,105
+stranieri_paesi,provenienza,MA,Marocco,106
+stranieri_paesi,provenienza,MC,Monaco,107
+stranieri_paesi,provenienza,MD,Moldova,108
+stranieri_paesi,provenienza,ME,Montenegro,109
+stranieri_paesi,provenienza,MG,Madagascar,110
+stranieri_paesi,provenienza,MH,Isole Marshall,111
+stranieri_paesi,provenienza,MK,Macedonia (Ex Repubblica Jugoslava di),112
+stranieri_paesi,provenienza,ML,Mali,113
+stranieri_paesi,provenienza,MM,Myanmar (Ex Birmania),114
+stranieri_paesi,provenienza,MN,Mongolia,115
+stranieri_paesi,provenienza,MR,Mauritania,116
+stranieri_paesi,provenienza,MT,Malta,117
+stranieri_paesi,provenienza,MU,Mauritius,118
+stranieri_paesi,provenienza,MV,Maldive,119
+stranieri_paesi,provenienza,MW,Malawi,120
+stranieri_paesi,provenienza,MX,Messico,121
+stranieri_paesi,provenienza,MY,Malaysia,122
+stranieri_paesi,provenienza,MZ,Mozambico,123
+stranieri_paesi,provenienza,NA,Namibia,124
+stranieri_paesi,provenienza,NE,Niger,125
+stranieri_paesi,provenienza,NG,Nigeria,126
+stranieri_paesi,provenienza,NI,Nicaragua,127
+stranieri_paesi,provenienza,NL,Paesi Bassi,128
+stranieri_paesi,provenienza,NO,Norvegia,129
+stranieri_paesi,provenienza,NP,Nepal,130
+stranieri_paesi,provenienza,NR,Nauru,131
+stranieri_paesi,provenienza,NZ,Nuova Zelanda,132
+stranieri_paesi,provenienza,OM,Oman,133
+stranieri_paesi,provenienza,PA,Panama,134
+stranieri_paesi,provenienza,PE,Perù,135
+stranieri_paesi,provenienza,PG,Papua Nuova Guinea,136
+stranieri_paesi,provenienza,PH,Filippine,137
+stranieri_paesi,provenienza,PK,Pakistan,138
+stranieri_paesi,provenienza,PL,Polonia,139
+stranieri_paesi,provenienza,PS,Territori Autonomi Palestinesi,140
+stranieri_paesi,provenienza,PT,Portogallo,141
+stranieri_paesi,provenienza,PW,Palau,142
+stranieri_paesi,provenienza,PY,Paraguay,143
+stranieri_paesi,provenienza,QA,Qatar,144
+stranieri_paesi,provenienza,RO,Romania,145
+stranieri_paesi,provenienza,RS,Serbia (Repubblica di),146
+stranieri_paesi,provenienza,RU,Russia,147
+stranieri_paesi,provenienza,RW,Ruanda,148
+stranieri_paesi,provenienza,SA,Arabia Saudita,149
+stranieri_paesi,provenienza,SB,Isole Salomone,150
+stranieri_paesi,provenienza,SC,Seychelles,151
+stranieri_paesi,provenienza,SD,Sudan,152
+stranieri_paesi,provenienza,SE,Svezia,153
+stranieri_paesi,provenienza,SG,Singapore,154
+stranieri_paesi,provenienza,SI,Slovenia,155
+stranieri_paesi,provenienza,SK,Slovacchia,156
+stranieri_paesi,provenienza,SL,Sierra Leone,157
+stranieri_paesi,provenienza,SM,San Marino,158
+stranieri_paesi,provenienza,SN,Senegal,159
+stranieri_paesi,provenienza,SO,Somalia,160
+stranieri_paesi,provenienza,SR,Suriname,161
+stranieri_paesi,provenienza,SS,Repubblica del Sud Sudan,162
+stranieri_paesi,provenienza,ST,São Tomé e Principe,163
+stranieri_paesi,provenienza,SV,El Salvador,164
+stranieri_paesi,provenienza,SY,Siria,165
+stranieri_paesi,provenienza,SZ,Swaziland (Eswatini),166
+stranieri_paesi,provenienza,TD,Ciad,167
+stranieri_paesi,provenienza,TG,Togo,168
+stranieri_paesi,provenienza,TH,Thailandia,169
+stranieri_paesi,provenienza,TJ,Tagikistan,170
+stranieri_paesi,provenienza,TL,Timor-Leste,171
+stranieri_paesi,provenienza,TM,Turkmenistan,172
+stranieri_paesi,provenienza,TN,Tunisia,173
+stranieri_paesi,provenienza,TO,Tonga,174
+stranieri_paesi,provenienza,TR,Turchia,175
+stranieri_paesi,provenienza,TT,Trinidad e Tobago,176
+stranieri_paesi,provenienza,TV,Tuvalu,177
+stranieri_paesi,provenienza,TW,Taiwan (ex Formosa),178
+stranieri_paesi,provenienza,TZ,Tanzania,179
+stranieri_paesi,provenienza,UA,Ucraina,180
+stranieri_paesi,provenienza,UG,Uganda,181
+stranieri_paesi,provenienza,UK,Regno unito,182
+stranieri_paesi,provenienza,US,Stati Uniti,183
+stranieri_paesi,provenienza,UY,Uruguay,184
+stranieri_paesi,provenienza,UZ,Uzbekistan,185
+stranieri_paesi,provenienza,VA,Santa Sede (Stato della Città del Vaticano),186
+stranieri_paesi,provenienza,VC,Saint Vincent e Grenadine,187
+stranieri_paesi,provenienza,VE,Venezuela,188
+stranieri_paesi,provenienza,VN,Vietnam,189
+stranieri_paesi,provenienza,VU,Vanuatu,190
+stranieri_paesi,provenienza,WS,Samoa,191
+stranieri_paesi,provenienza,XK,Kosovo,192
+stranieri_paesi,provenienza,YE,Yemen,193
+stranieri_paesi,provenienza,ZA,Sud Africa,194
+stranieri_paesi,provenienza,ZM,Zambia,195
+stranieri_paesi,provenienza,ZW,Zimbabwe (ex Rhodesia),196
+stranieri_paesi,provenienza,ZZ,Apolide,197
+istruzione,sesso,F,Femmine,1
+istruzione,sesso,M,Maschi,2
+istruzione,sesso,T,Totale,3
+istruzione,cittadinanza,I,Italiani,1
+istruzione,cittadinanza,S,Stranieri,2
+istruzione,cittadinanza,T,Totale,3
+istruzione,istruzione,NO,Nessun Titolo,1
+istruzione,istruzione,EL,Licenza Scuola Primaria,2
+istruzione,istruzione,MI,Diploma Scuola Secondaria I Grado,3
+istruzione,istruzione,MS,Diploma Scuola Secondaria II Grado,4
+istruzione,istruzione,LB,Diploma Laurea Breve,5
+istruzione,istruzione,LM,Diploma Laurea Magistrale o Dottorato Ricerca,6
+istruzione,istruzione,T,Totale,7
+istruzione_eta,sesso,F,Femmine,1
+istruzione_eta,sesso,M,Maschi,2
+istruzione_eta,sesso,T,Totale,3
+istruzione_eta,eta,Y09-24,Da 9 anni a 24 anni,1
+istruzione_eta,eta,Y25-49,Da 25 anni a 49 anni,2
+istruzione_eta,eta,Y50-64,Da 50 anni a 64 anni,3
+istruzione_eta,eta,YGE65,65 anni e più,4
+istruzione_eta,istruzione,NO,Nessun Titolo,1
+istruzione_eta,istruzione,EL,Licenza Scuola Primaria,2
+istruzione_eta,istruzione,MI,Diploma Scuola Secondaria I Grado,3
+istruzione_eta,istruzione,MS,Diploma Scuola Secondaria II Grado,4
+istruzione_eta,istruzione,LB,Diploma Laurea Breve,5
+istruzione_eta,istruzione,LM,Diploma Laurea Magistrale o Dottorato Ricerca,6
+professione,sesso,F,Femmine,1
+professione,sesso,M,Maschi,2
+professione,sesso,T,Totale,3
+professione,cittadinanza,I,Italiani,1
+professione,cittadinanza,S,Stranieri,2
+professione,cittadinanza,T,Totale,3
+professione,professione,FL-T,Forze Lavoro,1
+professione,professione,FL-O,Occupati,2
+professione,professione,FL-C,In Cerca Occupazione,3
+professione,professione,NFL-T,Non Forze Lavoro,4
+professione,professione,NFL-S,Studenti,5
+professione,professione,NFL-P,Pensionati,6
+professione,professione,NFL-C,Casalinghe,7
+professione,professione,NFL-O,Altre Non FL,8
+professione,professione,T,Totale,9
+professione_eta,sesso,F,Femmine,1
+professione_eta,sesso,M,Maschi,2
+professione_eta,sesso,T,Totale,3
+professione_eta,eta,Y15-24,Da 15 anni a 24 anni,1
+professione_eta,eta,Y25-49,Da 25 anni a 49 anni,2
+professione_eta,eta,Y50-64,Da 50 anni a 64 anni,3
+professione_eta,eta,YGE65,65 anni e più,4
+professione_eta,professione,FL-T,Forze Lavoro,1
+professione_eta,professione,FL-O,Occupati,2
+professione_eta,professione,FL-C,In Cerca Occupazione,3
+professione_eta,professione,NFL-T,Non Forze Lavoro,4
+professione_eta,professione,NFL-S,Studenti,5
+professione_eta,professione,NFL-P,Pensionati,6
+professione_eta,professione,NFL-C,Casalinghe,7
+professione_eta,professione,NFL-O,Altre Non FL,8
+professione_eta,professione,T,Totale,9
+pendolari,sesso,F,Femmine,1
+pendolari,sesso,M,Maschi,2
+pendolari,sesso,T,Totale,3
+pendolari,destinazione,S,Nel Comune di Residenza,1
+pendolari,destinazione,A,Oltre il Comune di Residenza,2
+pendolari,destinazione,T,Totale,3
+pendolari,motivo,L,Lavoro,1
+pendolari,motivo,S,Studio,2
+pendolari,motivo,T,Totale,3
